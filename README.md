@@ -49,3 +49,7 @@ Simply copy
     │       ├───platforms
     │       └───plugins
 ```
+
+## License
+
+GNU General Public License v3.0
